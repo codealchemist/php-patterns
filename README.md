@@ -1,7 +1,7 @@
 php-patterns
 ============
 
-Here you will find Examples of PHP design patterns.
+Here you will find examples of PHP design patterns.
 
 Additional sources for PHP design patterns:
 * [PHP Design Patterns](http://www.phpdesignpatterns.com)
