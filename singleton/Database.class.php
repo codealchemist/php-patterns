@@ -11,11 +11,11 @@ class Database {
     //disallow access to constructor to avoid bypassing getInstance
     private function __construct() {}
 
-    //disallow cloning this class
+    //disallow cloning this class to avoid bypassing of getInstance
     private function __clone() {}
     
     /**
-     * Returns a unique instance of Database to avoid bypassing of getInstance
+     * Returns a unique instance of Database.
      * 
      * @return Database
      */
